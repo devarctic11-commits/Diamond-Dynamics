@@ -26,3 +26,6 @@ push_to_github.py
 # OS
 Thumbs.db
 .DS_Store
+
+# Nested extracted directory
+Diamond-Dynamics-main/
